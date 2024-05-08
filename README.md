@@ -2,21 +2,23 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> This is a project in order to perfect the use of flexbox and some tools necessary for the organization of boxes.
 
-![screenshot](./app_screenshot.png)
+![Primer Ejercicio](image-1.png)
 
-Additional description about the project and its features.
+![Segundo ejercicio](image-2.png)
+
+![Tercer ejercicio](image-3.png)
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://jhoadsonmijares12.github.io/introductiontoflexbox/)
 
 
 ## Getting Started
@@ -25,51 +27,25 @@ Additional description about the project and its features.
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+## Author
 
-### Prerequisites
+👤 **Jhony Jhoadson Mijares Gonzalez**
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Arístides José Molina Pérez**
-
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@jhoadsonmijares12](https://github.com/jhoadsonmijares12)
+- Instagram: jhoadsonmijares
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+The properties of flexbox, margin, height, align-item, among others, are used.
 
-Feel free to check the [issues page](issues/).
+-https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox
+-https://www.theodinproject.com/lessons/foundations-alignment
+-https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+-https://flexbox.malven.co/
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
