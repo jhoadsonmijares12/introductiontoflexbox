@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(grey,black);
+    height: 610px;
+}
+
+h1{
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+
+*{
+    color: white;
+    
+}
+
+a{
+    display: flex;
+    justify-content: center;
+}
+buttom{
+    background-color: black;
+}

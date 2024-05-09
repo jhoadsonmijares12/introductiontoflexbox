@@ -12,3 +12,16 @@
   flex: 1;
   margin: 4px;
 }
+
+a{
+  height: 1000px;
+  width: 100px;
+  margin: 10px;
+  color: white;
+  border-radius: 10px;
+}
+
+body{
+  background: linear-gradient(grey,black);
+  height: 610px;
+}

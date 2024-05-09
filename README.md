@@ -4,11 +4,15 @@
 
 > This is a project in order to perfect the use of flexbox and some tools necessary for the organization of boxes.
 
-![Primer Ejercicio](image-1.png)
 
-![Segundo ejercicio](image-2.png)
+![Pag Principal](image.png)
 
-![Tercer ejercicio](image-3.png)
+![First Exercise](image-1.png)
+
+![Second Exercise](image-2.png)
+
+third exercise
+![Third Exerceise](image-3.png)
 
 
 ## Built With
